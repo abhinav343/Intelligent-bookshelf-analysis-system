@@ -1,0 +1,52 @@
+This is an experimental project which first, designs…. And second evaluates different 
+ 
+approaches for offering recommendations to readers regarding books they may wish to 
+ 
+purchase, as part of an online bookshop website. 
+ 
+ 
+Today the World Wide Web has provided access to a vast array of information through the 
+ 
+web pages, as a result of the Internet growth. Also, commercial activity on the Web has 
+ 
+increased to the point where hundreds of new companies are adding Web pages daily. With 
+ 
+this increase in the information sources, a problem of information overload occurs, in which 
+ 
+the users are trying to deal with an excess of information that is not useful to them as they 
+ 
+try to make sensible decisions (Losee, 1989).As a response to this problem, a range of tools 
+ 
+to help with retrieving, searching, and filtering have been developed. 
+ 
+ 
+The tool most widely used to alleviate the problem of information overload is the search 
+ 
+engine. The benefits for the users from search engine technology have decreased as the 
+ 
+number of web pages has grown. In addition, the user must first consider the large number 
+ 
+of search tools available and decide which one to access. Then the user must interact with 
+ 
+each one individually because search engines are typically not personalised to individual 
+ 
+users or their prevailing context. Users usually make a choice on the basis of their personal 
+ 
+experience or other people’s experience. Based on these facts, recommender systems have 
+ 
+been developed to provide recommendations that help individual users identify content of 
+ 
+interest by using the opinions of a community of users and/or the user’s preferences. 
+ 
+ 
+Today various recommendation systems play an important role in supporting commercial 
+ 
+websites to help users find items that they know they would like to purchase, as well as 
+ 
+discover new items about which they had been unaware. The ability to persuade the 
+ 
+consumers to buy a suitable item is a significant goal for any recommender system in an 
+ 
+ecommerce environment. However, for any recommender system to be successful, the 
+ 
+consumer must trust and accept the system’s recommendations.
